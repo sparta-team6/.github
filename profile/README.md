@@ -1,20 +1,36 @@
 # <img src="https://velog.velcdn.com/images/jiho3894/post/a955bf3c-174d-41ac-a533-888133861487/image.png" align=left width=50 /> CO-UP
 ### 더 큰 성취를 위하여, 쿱!
-<img src="" />
+<img src="https://velog.velcdn.com/images/jiho3894/post/59959274-f205-49ce-a11f-4921df20350e/image.png" />
 
-🏠 [CO-UP 서비스 바로가기](https://www.cooperate-up.com/)
+### > 팀 프로젝트를 보다 효율적으로 진행할 수 있는 자원 공유 협업 툴 유틸리티 서비스
 
-🎬 [시연 영상]()
+## 👉[쿱(CO-UP) 서비스 페이지 바로 가기](https://www.cooperate-up.com/)
 
-💻 [발표 영상]()
+💻 [발표 영상](https://www.youtube.com/watch?v=FvVhgbdt7bI)
 
-📝 <a href='' target='_blank'>팀 노션 바로가기</a>
+📝 <a href='https://www.notion.so/CO-UP-a40c8fe3863e488e8a5beea37d0f488a' target='_blank'>팀 노션 바로가기</a>
 
 🔗 [CO-UP 원페이지 브로셔]()
 
-## ❓ 기획 의도
+## 📌 핵심 기능 요약
 
-## ✨ 핵심기능
+> 프로젝트 팀 구성이 가능하며 **각 팀의 독립된 워크스페이스**를 제공합니다.
+>
+
+> 프로젝트 **업무 진척 파악 및 공유**가 가능합니다.
+>
+
+> 워크스페이스 내 **문서, 칸반보드 관리 및 공유**가 가능합니다.
+>
+
+> 프로젝트 멤버 간 **공통 작업 항목에 대한 동시성 제어**가 가능합니다.
+>
+
+> 프로젝트 멤버 간 **실시간 채팅**을 이용한 소통이 가능합니다.
+>
+
+> **관리자와 일반 유저 권한을 구별**하며 **권한에 따라 이용 가능한 기능을 제한**하고 있습니다.
+>
 
 ## 📌Team
 <table>
@@ -25,7 +41,7 @@
     <td align="center"><a href="https://github.com/jiho3894" target='_blank'><img src="https://user-images.githubusercontent.com/79081800/171411042-b0022191-74fa-41ab-ba41-6d1c5f1eb8c6.png" width="120px" /></a></td>
        <td align="center"><a href="https://github.com/mosbisu" target='_blank'><img src="https://user-images.githubusercontent.com/79081800/171411148-efad3a73-0e98-4283-aa69-075f7b0b6523.png" width="120px" /></a></td>
     <td align="center"><a href="https://github.com/mosbisu" target='_blank'><img src="https://user-images.githubusercontent.com/79081800/171411148-efad3a73-0e98-4283-aa69-075f7b0b6523.png" width="120px" /></a></td>
-    <td align="center"><a href="https://github.com/mosbisu" target='_blank'><img src="https://user-images.githubusercontent.com/79081800/171411148-efad3a73-0e98-4283-aa69-075f7b0b6523.png" width="120px" /></a></td>
+    <td align="center"><a href="https://github.com/mosbisu" target='_blank'><img src="https://velog.velcdn.com/images/jiho3894/post/f2feb694-e15c-42b5-9788-340640e8af4f/image.jpg" width="120px" /></a></td>
 
   <tr>
         <td align="center"><strong>정재호</strong></td>
@@ -47,32 +63,29 @@
     <td align="center"><b>Design</b></td>
   </tr>
     <tr>
-            <td align="center"><a href="" target='_blank'>github</a></td>
-    <td align="center"><a href="" target='_blank'>github</a></td>
-      <td align="center"><a href="" target='_blank'>github</a></td>
-    <td align="center"><a href="" target='_blank'>github</a></td>
-       <td align="center"><a href="" target='_blank'>github</a></td>
-            <td align="center"><a href="" target='_blank'>instagram</a></td>
-          <td align="center"><a href=''>instagram</a><br/></td>
+            <td align="center"><a href="https://github.com/pg-Parunson" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/funnykyeon" target='_blank'>github</a></td>
+      <td align="center"><a href="https://github.com/Hong-Seungmin" target='_blank'>github</a></td>
+    <td align="center"><a href="https://github.com/jiho3894" target='_blank'>github</a></td>
+       <td align="center"><a href="https://github.com/pg-Parunson" target='_blank'>github</a></td>
+            <td align="center"><a href="https://www.instagram.com/soupsoup__/" target='_blank'>instagram</a></td>
+          <td align="center"><a href='https://www.instagram.com/2x3graphics/?igshid=YmMyMTA2M2Y%3D' target='_blank'>instagram</a><br/></td>
   </tr>
 </table>
+
 
 ## 🗓 프로젝트 기간
 - 2022년 4월 29일 ~ 2022년 6월 3일
 
-## ☑️ Service Architecture
-<img src="" />
-
-## 🛠️ Tech Stack
-#### ✨Frontend Tech Stack
+## 기술스택
+#### Frontend
 <div align='left'>
   <img src="https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-0B1120?style=for-the-badge&logo=TailwindCSS&logoColor=38BDF8">
-  <img src="https://img.shields.io/badge/axios-671DDF?style=for-the-badge&logo=axios&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/TypeScript-3178C5?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=REactQuery&logoColor=white">
+    <img src="https://img.shields.io/badge/Recoil-black?style=for-the-badge&logo=RecoilCSS&logoColor=38BDF8">
+      <img src="https://img.shields.io/badge/React bueautiful dnd-green?style=for-the-badge&logo=RecoilCSS&logoColor=38BDF8">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=38BDF8">
   <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=GitHubActions&logoColor=2088FF"/>
   <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
   <img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
@@ -80,18 +93,12 @@
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=PWA&logoColor=white"/>
 </div>
 
-#### 🌐Backend Tech Stack
+#### Backend
 <div align='left'>
-  <img src="https://img.shields.io/badge/java-0D8AC7?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/QUERY%20DSL-E34F26?style=for-the-badge&logo=QUERYDSL&logoColor=0282C4">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=GitHubActions&logoColor=2088FF"/>
-  <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/AWS%20CODEDEPLOY-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/APACHE%20JMETER-D22128?style=for-the-badge&logo=APACHEJMETER&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/>
+  
 </div>
+
+## 프로젝트 아키텍처
+<img src="https://velog.velcdn.com/images/jiho3894/post/64ed9e6a-e08b-4036-b238-092cf2b33207/image.png" />
+
+

@@ -6,11 +6,9 @@
 
 ## 👉[쿱(CO-UP) 서비스 페이지 바로 가기](https://www.cooperate-up.com/)
 
-💻 [발표 영상](https://www.youtube.com/watch?v=FvVhgbdt7bI)
+💻 [발표 영상](https://www.youtube.com/watch?v=SZUlbjT3us8)
 
 📝 <a href='https://www.notion.so/CO-UP-a40c8fe3863e488e8a5beea37d0f488a' target='_blank'>팀 노션 바로가기</a>
-
-🔗 [CO-UP 원페이지 브로셔]()
 
 ## 📌 핵심 기능 요약
 

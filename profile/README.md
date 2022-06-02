@@ -41,7 +41,7 @@
     <td align="center"><a href="https://github.com/jiho3894" target='_blank'><img src="https://user-images.githubusercontent.com/79081800/171411042-b0022191-74fa-41ab-ba41-6d1c5f1eb8c6.png" width="120px" /></a></td>
        <td align="center"><a href="https://github.com/mosbisu" target='_blank'><img src="https://user-images.githubusercontent.com/79081800/171411148-efad3a73-0e98-4283-aa69-075f7b0b6523.png" width="120px" /></a></td>
     <td align="center"><a href="https://instagram.com/2x3graphics?igshid=YmMyMTA2M2Y=" target='_blank'><img src="https://velog.velcdn.com/images/jiho3894/post/02c34c7a-fb80-47e8-b4ff-630ad4cff4be/image.jpg" width="120px" target='_blank'/></a></td>
-    <td align="center"><a href="(https://www.instagram.com/soupsoup__/" target='_blank'><img src="https://velog.velcdn.com/images/jiho3894/post/f2feb694-e15c-42b5-9788-340640e8af4f/image.jpg" width="120px" /></a></td>
+    <td align="center"><a href="https://www.instagram.com/soupsoup__/" target='_blank'><img src="https://velog.velcdn.com/images/jiho3894/post/f2feb694-e15c-42b5-9788-340640e8af4f/image.jpg" width="120px" /></a></td>
 
   <tr>
         <td align="center"><strong>정재호</strong></td>
@@ -96,17 +96,17 @@
 #### Backend
 <div align='left'>
   <div align='left'>
-<!--   <img src="https://img.shields.io/badge/java-0D8AC7?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-0D8AC7?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/QUERY%20DSL-E34F26?style=for-the-badge&logo=QUERYDSL&logoColor=0282C4">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"> -->
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=GitHubActions&logoColor=2088FF"/>
   <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
   <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
   <img src="https://img.shields.io/badge/AWS%20CODEDEPLOY-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/APACHE%20JMETER-D22128?style=for-the-badge&logo=APACHEJMETER&logoColor=FFFFFF">
+<!--   <img src="https://img.shields.io/badge/APACHE%20JMETER-D22128?style=for-the-badge&logo=APACHEJMETER&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/> -->
 </div>
 </div>

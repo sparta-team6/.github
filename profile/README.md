@@ -40,8 +40,8 @@
     <td align="center"><a href="https://github.com/Hon-Seungmin" target='_blank'><img src="https://user-images.githubusercontent.com/79081800/171410845-e5eec2fa-a305-4849-bb24-e3e210fae8a1.png" width="120px" /></a></td>
     <td align="center"><a href="https://github.com/jiho3894" target='_blank'><img src="https://user-images.githubusercontent.com/79081800/171411042-b0022191-74fa-41ab-ba41-6d1c5f1eb8c6.png" width="120px" /></a></td>
        <td align="center"><a href="https://github.com/mosbisu" target='_blank'><img src="https://user-images.githubusercontent.com/79081800/171411148-efad3a73-0e98-4283-aa69-075f7b0b6523.png" width="120px" /></a></td>
-    <td align="center"><a href="https://instagram.com/2x3graphics?igshid=YmMyMTA2M2Y=" target='_blank'><img src="https://velog.velcdn.com/images/jiho3894/post/02c34c7a-fb80-47e8-b4ff-630ad4cff4be/image.jpg" width="120px" target='_blank'/></a></td>
-    <td align="center"><a href="https://www.instagram.com/soupsoup__/" target='_blank'><img src="https://velog.velcdn.com/images/jiho3894/post/f2feb694-e15c-42b5-9788-340640e8af4f/image.jpg" width="120px" /></a></td>
+    <td align="center"><a href="https://www.instagram.com/soupsoup__/" target='_blank'><img src="https://velog.velcdn.com/images/jiho3894/post/02c34c7a-fb80-47e8-b4ff-630ad4cff4be/image.jpg" width="120px" target='_blank'/></a></td>
+    <td align="center"><a href="https://instagram.com/2x3graphics?igshid=YmMyMTA2M2Y=" target='_blank'><img src="https://velog.velcdn.com/images/jiho3894/post/f2feb694-e15c-42b5-9788-340640e8af4f/image.jpg" width="120px" /></a></td>
 
   <tr>
         <td align="center"><strong>정재호</strong></td>
@@ -87,9 +87,7 @@
       <img src="https://img.shields.io/badge/React bueautiful dnd-green?style=for-the-badge&logo=RecoilCSS&logoColor=38BDF8">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=38BDF8">
   <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=GitHubActions&logoColor=2088FF"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
   <img src="https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/AWS%20Route%2053-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9A00"/>
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=PWA&logoColor=white"/>
 </div>
 
